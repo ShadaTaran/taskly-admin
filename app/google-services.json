@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "533658849018",
+    "firebase_url": "https://tasklyy-3ba44-default-rtdb.firebaseio.com",
+    "project_id": "tasklyy-3ba44",
+    "storage_bucket": "tasklyy-3ba44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533658849018:android:644cac5e33033303bf4343",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNx_Z9IJTNbFKesdGx7Z5rNf7e3a9Qfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533658849018:android:e76b8b65c605547abf4343",
+        "android_client_info": {
+          "package_name": "com.example.taskly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNx_Z9IJTNbFKesdGx7Z5rNf7e3a9Qfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533658849018:android:bdf8d0e78cbb3feabf4343",
+        "android_client_info": {
+          "package_name": "com.example.tasklyadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNx_Z9IJTNbFKesdGx7Z5rNf7e3a9Qfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
